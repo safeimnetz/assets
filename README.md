@@ -1,3 +1,3 @@
-Safe im Netz Assets
+# Safe im Netz Assets
 
 All of our logos, icons and more.
